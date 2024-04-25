@@ -1,4 +1,4 @@
-Shape optimization of NACA0012 using ANN based surrogate model. 
+Shape optimization of NACA0012 using ANN-based surrogate model. 
 The “Hicks-Henne bump function” has been used to parameterise and deform the original shape according to design parameters. 
 Sampling parameters are generated using quasi-random low-discrepancy sequences called “Sobol” sequences. 
 Numerical simulations have been conducted using the potential flow-based panel method solver “XFOIL” to obtain lift and drag coefficients of deformed foil shapes. 
