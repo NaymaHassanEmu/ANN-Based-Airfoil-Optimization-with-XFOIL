@@ -1,3 +1,4 @@
+Manuscript Link: https://drive.google.com/file/d/1y9ej7HuEGkcN1u5myHpvQfycqxxVweps/view?usp=drive_link
 Shape optimization of NACA0012 using ANN-based surrogate model. 
 The “Hicks-Henne bump function” has been used to parameterise and deform the original shape according to design parameters. 
 Sampling parameters are generated using quasi-random low-discrepancy sequences called “Sobol” sequences. 
